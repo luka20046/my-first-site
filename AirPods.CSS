@@ -1,0 +1,101 @@
+.dropdown-content.menu{
+    list-style: none;
+    margin: 50px;
+    padding-left: 60px;
+    display: inline-block;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 205px;
+    color: lightslategray;
+}
+.dropdown-content{
+    display: none;
+}
+.menu:hover .dropdown-content {display: block;}
+body{
+    background-color: black;
+}
+.phones {
+  text-align: center;
+  color: white;
+}
+.phone {
+    display: inline-block;
+      padding: 30px;
+}
+.IMG {
+  height: 90px;
+  width: 120px;
+  object-fit: contain;
+}
+
+.title {
+  color: white;
+  margin-top: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.NEW {
+  color: rgba(255, 0, 0, 0.7);
+  font-size: 12px;
+  margin-top: 4px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.IP{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pods{
+    width: 137px;
+    height: 117px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border: 0.800;
+}
+.technik{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.BUY{
+    padding-bottom: 30px;
+}
+.buy{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+}
+.price{
+  color: white;
+}
+.IPTOBUY{
+ display: inline;
+}
+.IPNAME{
+  color: white;
+}
+.NAME{
+  padding: 55px;
+  display: inline-block;
+}
+.IPIMG{
+  height: 175px;
+  width: 97,2px;
+}
+.IPBUTTON{
+  margin-right: 15px;
+}
+.OLD{
+  color:gray;
+}
+.IPNAME{
+  font-size: 120%;
+}
+.AIR{
+  height: 80px;
+  width: 120px;
+}
